@@ -1,0 +1,3 @@
+# Partial Tkenv config file -- see $HOME/.tkenvrc as well
+inspector "HubNetwork" "HubNetwork" "2" "607x337+717+-4:normal"
+
